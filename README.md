@@ -1,4 +1,4 @@
-# FCSC 2020 RsaCE
+# FCSC 2020 RXoring Networks
 
 Nous vous proposons l’étude des réseaux de XOR (Xoring Networks) et le problème XNP associé. Plus d’informations sont données dans le [DETAILS.md](DETAILS.md)
 
@@ -17,7 +17,7 @@ Une version plus simple de cette épreuve est disponible ici : Xoring Networks (
 
 Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
 
-Origine : [RsaCE](https://hackropole.fr/fr/challenges/misc/fcsc2020-misc-xoring-networks/)
+Origine : [Xoring Networks](https://hackropole.fr/fr/challenges/misc/fcsc2020-misc-xoring-networks/)
 
 
 
