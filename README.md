@@ -1,4 +1,4 @@
-# FCSC 2020 RXoring Networks
+# FCSC 2020 Xoring Networks
 
 Nous vous proposons l’étude des réseaux de XOR (Xoring Networks) et le problème XNP associé. Plus d’informations sont données dans le [DETAILS.md](DETAILS.md)
 
